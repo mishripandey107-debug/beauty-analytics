@@ -1,0 +1,31 @@
+product_id,name,category,price
+P001,Vitamin C Serum,Skincare,699
+P002,Hyaluronic Acid Serum,Skincare,649
+P003,Niacinamide Serum,Skincare,599
+P004,Daily Moisturizer,Skincare,449
+P005,Gel Face Wash,Skincare,299
+P006,Sunscreen SPF 50,Skincare,549
+P007,Night Repair Cream,Skincare,899
+P008,Under Eye Cream,Skincare,499
+P009,Clay Face Mask,Skincare,399
+P010,Lip Balm,Skincare,199
+P011,Matte Lipstick,Makeup,399
+P012,Liquid Eyeliner,Makeup,249
+P013,Volumizing Mascara,Makeup,449
+P014,Compact Powder,Makeup,349
+P015,Foundation,Makeup,699
+P016,Kajal Pencil,Makeup,199
+P017,Blush Palette,Makeup,599
+P018,Lip Gloss,Makeup,299
+P019,Onion Hair Oil,Haircare,349
+P020,Anti-Dandruff Shampoo,Haircare,399
+P021,Hair Serum,Haircare,499
+P022,Argan Conditioner,Haircare,449
+P023,Hair Mask,Haircare,549
+P024,Keratin Shampoo,Haircare,599
+P025,Floral Perfume,Fragrance,999
+P026,Body Mist,Fragrance,499
+P027,Woody Eau de Parfum,Fragrance,1299
+P028,Roll-on Deodorant,Fragrance,249
+P029,Gift Perfume Set,Fragrance,1499
+P030,Travel Mist,Fragrance,299
